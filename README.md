@@ -24,8 +24,8 @@
 <h4> 모든 일에 열심히 성실한 자세로 임하도록 하겠습니다.</h4>
 
 # 💻Information💾<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badapiri&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idusnr1117&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idusnr1117&layout=compact&theme=tokyonight)
 
 # 🛠Skills🛠<br>
 ### Platforms & Languages🌐
