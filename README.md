@@ -37,4 +37,4 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
  
 ### Notion 📄 <br>
-| <a href="https://www.notion.so/HELLO-7298a232e79847439430da420b6b862b" target="_blank"><img src="https://img.shields.io/badge/양현욱-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a> |
+| <a href="(https://www.notion.so/hyunwook17/847b9bd2042d408e9a1c0575dfd602e6?v=a797762ce7b2400096e3dfee5ec7c299)" target="_blank"><img src="https://img.shields.io/badge/양현욱-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a> |
