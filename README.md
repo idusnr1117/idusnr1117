@@ -14,9 +14,6 @@
 </div>
 
 <div align=center>
- 
-# YangHyunWook(양현욱)🤗
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=badapiri1004)](https://solved.ac/badapiri1004/)
 
 # 🗨자기소개💬<br>
 <h4> 저는 성일정보고등학교에 소프트웨어개발과를 다니고 있는 양현욱이라고 합니다.</h4>
@@ -26,6 +23,7 @@
 # 💻Information💾<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idusnr1117&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idusnr1117&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=badapiri1004)](https://solved.ac/badapiri1004/)
 
 # 🛠Skills🛠<br>
 ### Platforms & Languages🌐
