@@ -34,7 +34,7 @@
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
-# 💻Information💾<br>
+# 💻State💾<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idusnr1117&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idusnr1117&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=badapiri1004)](https://solved.ac/badapiri1004/)
