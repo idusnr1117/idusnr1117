@@ -1,6 +1,7 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BEF781&height=150&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  !image<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello world!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </a>
 </div>
 
