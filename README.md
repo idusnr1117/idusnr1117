@@ -7,11 +7,6 @@
 </div>
 
 <div align=center>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadapiri&count_bg=%23010101&title_bg=%237C7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
-<div align=center>
 
 ## Introduction💬<br>
 <p>저는 성일정보고등학교에 소프트웨어개발과를 다니고 있는 양현욱이라고 합니다.</p>
@@ -50,3 +45,9 @@
  
 ### Notion 📄 <br>
 | <a href="https://www.notion.so/hyunwook17/847b9bd2042d408e9a1c0575dfd602e6?v=a797762ce7b2400096e3dfee5ec7c299" target="_blank"><img src="https://img.shields.io/badge/양현욱-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a> |
+
+
+<div align=center>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadapiri&count_bg=%23010101&title_bg=%237C7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
