@@ -13,12 +13,12 @@
 
 <div align=center>
 
-# Introduction💬<br>
+## Introduction💬<br>
 <h4> 저는 성일정보고등학교에 소프트웨어개발과를 다니고 있는 양현욱이라고 합니다.</h4>
 <h4> 저는 주로 Java, Python을 공부하고 있고 실력을 기르기 위해서 코딩 공부를 하고있습니다!</h4>
 <h4> 모든 일에 열심히 성실한 자세로 임하도록 하겠습니다.</h4>
 
-## About me
+## Experience
 | What | When | Where |
 |:--------:|:--------:|:--------:|
 | 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 02 ~ 현재 | Sungil Information High School |
