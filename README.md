@@ -13,10 +13,25 @@
 
 <div align=center>
 
-# 🗨자기소개💬<br>
+# About me💬<br>
 <h4> 저는 성일정보고등학교에 소프트웨어개발과를 다니고 있는 양현욱이라고 합니다.</h4>
 <h4> 저는 주로 Java, Python을 공부하고 있고 실력을 기르기 위해서 코딩 공부를 하고있습니다!</h4>
 <h4> 모든 일에 열심히 성실한 자세로 임하도록 하겠습니다.</h4>
+
+| What | When | Where |
+|:--------:|:--------:|:--------:|
+| 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | Java basic After School Class |
+| 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | Java middle After School Class |
+| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
+| 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
+| 자율주행 AI 수업 | 2023. 10? | After School Class |
+| 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | Sungil Information High School |
+| 게임 개발 기능경기대회 준비 | 2023. 10. 19 ~ 현재 | After School Class |
+| 기능대회준비 자율 팀 프로젝트 협동 활동 | 2024. 8. 28 ~ 11. 24 | After School Class |
+| KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
+| Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
 # 💻Information💾<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idusnr1117&show_icons=true&theme=radical)
