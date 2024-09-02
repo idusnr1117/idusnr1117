@@ -23,11 +23,13 @@
 | 성일정보고등학교 소프트웨어 웹 개발 스터디 | 2024. 02 ~ 현재 | Sungil Software Study (SSS) |
 | 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | Java basic After School Class |
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | Java middle After School Class |
+| 성일정보고등학교 방과후 자바 Lv3, Lv4 | 2024. 04. 16 ~ 12. 21| Java middle After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
 | 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
 | 자율주행 AI 수업 | 2023. 10? | After School Class |
 | 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | Sungil Information High School |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
+| 산업 경진 대회 비즈니스 프로그래밍 부문 | 2024. 05. 23 | ? |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
 # 💻State💾<br>
