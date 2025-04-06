@@ -30,7 +30,7 @@
 | 자율주행 AI 수업 | 2023. 10? | After School Class |
 | 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | Sungil Information High School |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
-| 상업경진대회 비즈니스 프로그래밍 부문 | 2024. 05. 23 | ? High School |
+| 상업경진대회 비즈니스 프로그래밍 부문 참가 | 2024. 05. 23 | ? High School |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
 # 💻State💾<br>
